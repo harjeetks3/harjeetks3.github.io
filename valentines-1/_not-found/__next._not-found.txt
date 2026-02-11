@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[51113,["/valentines-1/_next/static/chunks/0248020d9b2e480b.js","/valentines-1/_next/static/chunks/12a1b6e60e2d09fb.js"],"default"]
 3:I[33709,["/valentines-1/_next/static/chunks/0248020d9b2e480b.js","/valentines-1/_next/static/chunks/12a1b6e60e2d09fb.js"],"default"]
-0:{"buildId":"d-qVke_VJHnP7ijGAoZ6I","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"ZRwpQEzkWC0tC6B32S6qb","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
